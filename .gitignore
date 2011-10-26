@@ -8,3 +8,5 @@ pom.xml.*
 .project
 .settings
 bin
+
+src/main/java/Test.java
